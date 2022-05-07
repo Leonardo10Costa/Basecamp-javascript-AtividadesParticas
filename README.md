@@ -1,2 +1,2 @@
 # Basecamp-javascript-AtividadesPraticas
-Atividades praticas sobre coleções chaveadas: map e set
+Atividades práticas sobre coleções chaveadas: map e set
